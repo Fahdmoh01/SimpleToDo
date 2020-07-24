@@ -28,6 +28,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='walkthrough.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+After clicking on the link above, click on "View Raw" to download the video and watch it locally.
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
