@@ -26,14 +26,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 My Laptop does not support virtualization. I spent hours trying to configure the settings to support it until the only way was with my phone. I also couldn't make a GIF as shown
-in th walkthrough video. Instead, I made a screen recording of the implementation of user stories. This is also due to my inablity to run emulators because my firmware doesn't 
+in th walkthrough video. Instead, I made a screen recording of the implementation of user stories on my mobile device. This is also due to my inablity to run emulators because my firmware doesn't 
 support virtualization.
 
 ## License
